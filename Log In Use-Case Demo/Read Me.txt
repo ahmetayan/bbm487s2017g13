@@ -1,0 +1,2 @@
+To run this demo, the Visual Studio must be installed on your computer. 
+For running, open the file "LibraryLoanSystem.sln" and run the code.
